@@ -1,5 +1,10 @@
 # Hospital_Emergency_Room_Dashboard
 Hospital Emergency Room Dashboard
+--I'm excited to share my latest Excel Hospital Emergency Room, Designed for real time performance tracking and Analysis
+## DashBoard-->
+- <a href="https://github.com/pawanraisadhar/Hospital_Emergency_Room_Dashboard/blob/main/Hospital.xlsx">DashBoard Viwe</a> 
+- DashBoard image <a href="https://github.com/pawanraisadhar/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Dashboard%20Final%20.jpg"> DashBoard image</a>
+(![Hospital Dashboard Final ](https://github.com/user-attachments/assets/687503bc-2658-4af7-a6a0-02aad016387e))
 
 🚑 Hospital Emergency Room Dashboard – My Latest Data Analytics Project 📊
 I’m excited to share that I recently learned how to design an interactive dashboard focused on analyzing Hospital Emergency Room data.
